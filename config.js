@@ -22,18 +22,18 @@ const config = {
     AutoUpdate          : 'off', // on atau off
     API_KEY             : '', // APIKEY ANDA AMBIL DI autoresbot.com
     GEMINI_API_KEY      : '', // https://youtu.be/02oGg3-3a-s?si=9WhaVsLyfc6B-YYI
-    phone_number_bot    : '6285124002196', // Nomor BOT
+    phone_number_bot    : '6289649810140', // Nomor BOT
     type_connection     : 'pairing', // qr atau pairing
     bot_destination     : 'private', // group , private, both
-    name_bot            : 'Resbot Ai',
-    owner_name          : 'Autoresbot',
-    owner_number        : '6285246154386',
-    owner_website       : 'autoresbot.com',
+    name_bot            : 'Ranzt Ai',
+    owner_name          : 'Ranzbot',
+    owner_number        : '6289649810140',
+    owner_website       : 'xnxx.com',
     version             : global.version,
     rate_limit          : 3000, // 3 detik
     total_limit         : 100, // limit perhari -  user biasa || kalo premium unlimited
-    sticker_packname    : 'Autoresbot',
-    sticker_author      : `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: Azhari Creative\nBot: 0852-4615-4386`,
+    sticker_packname    : 'ranzbot',
+    sticker_author      : `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nOwner: Ranz \nBot: 0896-4981-0140`,
     notification        : {
         limit           : 'Hai kak, Limit harian anda sudah habis silakan tunggu besok ya atau berlangganan premium untuk menikmati fitur tanpa limit',
         reset           : 'Dialog berhasil dihapus. Semua percakapan kita telah di-reset dan siap memulai dari awal!',
